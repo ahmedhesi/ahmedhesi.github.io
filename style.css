@@ -1,0 +1,46 @@
+body{
+  background-color: lightblue;
+  color: white;
+  Font-family:Arial, Helvetica, sans-serif;
+  margin: 20% 10%
+}
+
+.exp-header{
+  text-transform: uppercase;
+ color:purple; 
+  text-align: center;
+}
+
+h1{
+  color: purple;
+  font-size: 24px;
+  font family: Arial, Helvetica, sans-serif
+  padding-left: 10px;
+  
+}
+
+.header {
+  background-color: black;
+  padding-left: 10px;
+  text-align: center;
+  
+}
+
+.llc{
+  text-align: center;
+}
+
+.amazon{
+  text-align: center;
+  
+}
+
+.g4s{
+  text-align: center;
+}
+img{
+  order: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  width: 150px;
+}
